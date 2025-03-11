@@ -2,7 +2,7 @@
 
 A machine learning web application that predicts house prices in Pune, India based on various features like location, size, and amenities.
 
-![Pune House Price Predictor](https://github.com/yourusername/pune-house-price-predictor/assets/yourassetsfolder/app-screenshot.png)
+![Pune House Price Predictor](https://github.com/keshavthakur30/pune-house-price-predictor/screenshot.png)
 
 ## 📝 Description
 
