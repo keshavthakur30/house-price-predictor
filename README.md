@@ -27,7 +27,7 @@ This application uses a trained Linear Regression model to predict house prices 
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/pune-house-price-predictor.git
+   https://github.com/keshavthakur30/house-price-predictor.git
    cd pune-house-price-predictor
    ```
 
